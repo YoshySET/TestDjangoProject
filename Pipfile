@@ -47,6 +47,8 @@ markupsafe = "==2.1.1"
 marshmallow = "==3.18.0"
 more-itertools = "==9.0.0"
 mysqlclient = "==2.0.3"
+django-environ = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
